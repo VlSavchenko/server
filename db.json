@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Eye Mesh Boat Shoes",
+    "price": "2500.00",
+    "image": ["img/prod-1.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  },
+  {
+    "title": "Платье MEDICI",
+    "price": "4200.00",
+    "image": ["img/prod-2.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  },
+  {
+    "title": "Мужской жилет REGATA",
+    "price": "4250.00",
+    "image": ["img/prod-3.jpg","img/test.jpg","img/test.jpg"],
+    "new": true
+  },
+  {
+    "title": "Мужской свитер MFZ",
+    "price": "2800.00",
+    "image": ["img/prod-4.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  },
+  {
+    "title": "Мужская рубашка LEGRAFF",
+    "price": "3499.00",
+    "image": ["img/prod-5.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  },
+  {
+    "title": "Женский комбинезон RAYAN",
+    "price": "2000.00",
+    "image": ["img/prod-6.jpg","img/test.jpg","img/test.jpg"],
+    "new": true
+  },
+  {
+    "title": "Серьги TMH",
+    "price": "1200.00",
+    "image": ["img/prod-7.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  },
+  {
+    "title": "Туфли ATRY",
+    "price": "3500.00",
+    "image": ["img/prod-8.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  }
+  ,{
+    "title": "Пальто SAINY",
+    "price": "4999.00",
+    "image": ["img/prod-9.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  },
+  {
+    "title": "Кардиган WAKE",
+    "price": "5400.00",
+    "image": ["img/prod-10.jpg","img/test.jpg","img/test.jpg"],
+    "new": true
+  },
+  {
+    "title": "Платье KINZA",
+    "price": "1540.00",
+    "image": ["img/prod-11.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  },
+  {
+    "title": "Туфли SATRY",
+    "price": "2900.00",
+    "image": ["img/prod-12.jpg","img/test.jpg","img/test.jpg"],
+    "new": false
+  }
+]
